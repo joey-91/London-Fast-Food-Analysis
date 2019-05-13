@@ -4,6 +4,6 @@ Half passion, half proof of concept. This project scrapes takeaway food restaura
 
 I've also created a self service tool within the 'Topic Modelling' notebook which essentially builds an unsupervised model to cluster the reviews into a specified number of categories based on how different they are.
 
-(best viewed on a laptop)
+(best viewed on a laptop, loads slowly)
 
 http://test-chicken-hello.herokuapp.com/
